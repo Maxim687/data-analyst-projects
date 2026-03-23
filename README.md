@@ -36,7 +36,6 @@ This repository contains my portfolio projects built with Python using real-worl
 Analysis of sales data to identify revenue patterns, top products, and seasonal trends.
 
 **Skills:** EDA, feature engineering, time series analysis  
-📂 `01_sales_analysis/`
 
 ---
 
@@ -44,7 +43,6 @@ Analysis of sales data to identify revenue patterns, top products, and seasonal 
 Exploration of movie and TV show data to analyze trends in genres, countries, and content growth.
 
 **Skills:** data cleaning, text processing, visualization  
-📂 `02_movies_analysis/`
 
 ---
 
@@ -52,7 +50,6 @@ Exploration of movie and TV show data to analyze trends in genres, countries, an
 Analysis of salary distribution across countries, roles, and experience levels.
 
 **Skills:** aggregation, comparative analysis, business insights  
-📂 `03_it_salary_analysis/`
 
 ---
 
@@ -60,7 +57,6 @@ Analysis of salary distribution across countries, roles, and experience levels.
 Built a regression model to predict apartment prices.
 
 **Skills:** Linear Regression, model evaluation (MAE, MSE)  
-📂 `04_price_prediction/`
 
 ---
 
@@ -68,7 +64,6 @@ Built a regression model to predict apartment prices.
 Predicted survival using classification models.
 
 **Skills:** Logistic Regression, Random Forest, feature importance  
-📂 `05_classification_titanic/`
 
 ---
 
@@ -76,7 +71,6 @@ Predicted survival using classification models.
 End-to-end pipeline: EDA + machine learning for user purchase prediction.
 
 **Skills:** full pipeline, feature encoding, modeling  
-📂 `06_data_analyst_pipeline/`
 
 ---
 
@@ -84,7 +78,6 @@ End-to-end pipeline: EDA + machine learning for user purchase prediction.
 Real-world dataset analysis with customer insights and Pareto principle.
 
 **Skills:** customer analytics, revenue analysis, Pareto (80/20)  
-📂 `07_ecommerce_analysis/`
 
 ---
 
@@ -92,7 +85,6 @@ Real-world dataset analysis with customer insights and Pareto principle.
 Evaluation of marketing performance using key metrics.
 
 **Metrics:** CTR, CR, CPA, ROI  
-📂 `08_marketing_analysis/`
 
 ---
 
@@ -100,7 +92,6 @@ Evaluation of marketing performance using key metrics.
 Analysis of user behavior, segmentation, and conversion.
 
 **Skills:** product analytics, segmentation, behavioral analysis  
-📂 `09_product_user_analysis/`
 
 ---
 
