@@ -69,4 +69,4 @@ The dataset was synthetically generated and includes:
 - Salary strongly depends on experience level.
 - Country significantly impacts salary levels.
 - Senior roles show the highest salary variation.
-- Remote work may influence salary levels.
+- Remote work has almost no impact on salary levels.
