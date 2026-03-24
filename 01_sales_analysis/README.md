@@ -70,5 +70,3 @@ Calculated:
 - Certain products generate significantly higher revenue than others.
 - Sales vary across cities, indicating regional demand differences.
 - Revenue shows seasonal trends across months.
-## Project Structure
-
